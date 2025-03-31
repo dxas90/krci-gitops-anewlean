@@ -1,0 +1,1 @@
+1. Application krci-gitops-anewlean has been successfully deployed!!
